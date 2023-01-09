@@ -2,5 +2,5 @@
 ТЗ по написанию списка дел
 
 ## Скриншот готового приложения
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/igorvippzone/rn-todo-nextTeam/blob/main/example.jpg)
 
